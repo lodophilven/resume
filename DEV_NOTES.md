@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Improved log message formatting
 - Drafted initial implementation plan for v2
+
+## 2026-03-23
+- Investigated performance bottleneck, noted findings
