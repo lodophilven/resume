@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Updated dependencies to latest stable versions
 - Updated CI cache strategy
+
+## 2026-03-23
+- Resolved deprecation warnings
